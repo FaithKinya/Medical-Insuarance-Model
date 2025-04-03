@@ -6,7 +6,7 @@ link: https://drive.google.com/file/d/1LokhUhBMDW2ztZnjfHIsgi7caLDX73S9/view?usp
 
 # Features
 - Predicts medical insurance costs based on input features.
-- Uses machine learning techniques such as linear regression, decision trees, or deep learning models.
+- Uses machine learning techniques such as linear regression.
 - Handles missing data and performs feature scaling for better performance.
 - Evaluates model accuracy using regression metrics such as RMSE and R^2 score.
 
